@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">30 Days Fitness</string>
+
+    <string name="day1">Day 1</string>
+    <string name="title1">Set Clear Goals</string>
+    <string name="description1">Define specific, achievable fitness goals for the next 30 days. Whether it\'s losing weight, gaining muscle, or improving endurance, having clear objectives will keep you focused and motivated.</string>
+
+    <string name="day2">Day 2</string>
+    <string name="title2">Start Slow</string>
+    <string name="description2">Ease into your fitness routine to avoid burnout or injury. Begin with lighter workouts or shorter durations, gradually increasing intensity or duration as your strength and stamina improve.</string>
+
+    <string name="day3">Day 3</string>
+    <string name="title3">Hydrate</string>
+    <string name="description3">Drink plenty of water throughout the day, especially before, during, and after exercise. Staying hydrated is crucial for optimal performance and recovery.</string>
+
+    <string name="day4">Day 4</string>
+    <string name="title4">Mix It Up</string>
+    <string name="description4">Keep your workouts varied to prevent boredom and plateauing. Incorporate a mix of cardio, strength training, flexibility exercises, and outdoor activities for a well-rounded fitness regimen.</string>
+
+    <string name="day5">Day 5</string>
+    <string name="title5">Prioritize Rest</string>
+    <string name="description5">Rest days are just as important as workout days. Allow your body time to recover and repair muscle tissue by scheduling regular rest days into your fitness routine.</string>
+
+    <string name="day6">Day 6</string>
+    <string name="title6">Focus on Form</string>
+    <string name="description6">Pay attention to proper form and technique during exercises to maximize effectiveness and reduce the risk of injury. Quality over quantity is key.</string>
+
+    <string name="day7">Day 7</string>
+    <string name="title7">Get Plenty of Sleep</string>
+    <string name="description7">Aim for 7-9 hours of quality sleep each night to support muscle recovery, hormone balance, and overall well-being. Sleep is essential for optimal fitness performance.</string>
+
+    <string name="day8">Day 8</string>
+    <string name="title8">Set Realistic Expectations</string>
+    <string name="description8">Be patient with yourself and understand that fitness progress takes time. Set realistic expectations and celebrate small victories along the way to stay motivated.</string>
+
+    <string name="day9">Day 9</string>
+    <string name="title9">Incorporate Strength Training</string>
+    <string name="description9">Include strength training exercises in your routine to build lean muscle mass, increase metabolism, and improve overall strength and stability.</string>
+
+    <string name="day10">Day 10</string>
+    <string name="title10">Listen to Your Body</string>
+    <string name="description10">Pay attention to how your body feels during workouts. If something doesn\'t feel right, don\'t push through pain. Adjust your intensity or modify exercises as needed.</string>
+
+    <string name="day11">Day 11</string>
+    <string name="title11">Fuel Your Body</string>
+    <string name="description11">Eat a balanced diet rich in whole foods to provide your body with the nutrients it needs for energy, recovery, and optimal performance. Choose lean proteins, complex carbohydrates, and healthy fats.</string>
+
+    <string name="day12">Day 12</string>
+    <string name="title12">Schedule Your Workouts</string>
+    <string name="description12">Treat your workouts like appointments and schedule them into your calendar. Consistency is key to forming healthy habits and seeing results.</string>
+
+    <string name="day13">Day 13</string>
+    <string name="title13">Warm-Up Properly</string>
+    <string name="description13">Always start your workouts with a dynamic warm-up to increase blood flow, improve flexibility, and reduce the risk of injury. Spend 5-10 minutes warming up before diving into more intense exercises.</string>
+
+    <string name="day14">Day 14</string>
+    <string name="title14">Find a Workout Buddy</string>
+    <string name="description14">Partnering up with a friend or joining a fitness class can make exercise more enjoyable and hold you accountable. Surround yourself with supportive people who share your fitness goals.</string>
+
+    <string name="day15">Day 15</string>
+    <string name="title15">Practice Mindful Eating</string>
+    <string name="description15">Pay attention to your hunger and fullness cues, and eat slowly to savor your food. Avoid distractions like screens while eating to prevent mindless overeating.</string>
+
+    <string name="day16">Day 16</string>
+    <string name="title16">Try High-Intensity Interval Training (HIIT)</string>
+    <string name="description16">Incorporate HIIT workouts into your routine for a time-efficient way to burn calories, boost metabolism, and improve cardiovascular health. Alternate between periods of high-intensity exercise and rest.</string>
+
+    <string name="day17">Day 17</string>
+    <string name="title17">Stay Consistent</string>
+    <string name="description17">Consistency is key to long-term fitness success. Stick to your workout schedule even on days when you don\'t feel like it, and you\'ll build momentum over time.</string>
+
+    <string name="day18">Day 18</string>
+    <string name="title18">Set a Morning Routine</string>
+    <string name="description18">Kickstart your day with a morning workout or stretch routine to boost energy levels, improve mood, and set a positive tone for the rest of the day.</string>
+
+    <string name="day19">Day 19</string>
+    <string name="title19">Track Your Progress</string>
+    <string name="description19">Keep a fitness journal or use a tracking app to monitor your workouts, progress, and achievements. Seeing how far you\'ve come can be incredibly motivating.</string>
+
+    <string name="day20">Day 20</string>
+    <string name="title20">Stay Hydrated</string>
+    <string name="description20">Drink water throughout the day to stay hydrated and maintain peak performance during workouts. Dehydration can negatively impact strength, endurance, and recovery.</string>
+
+    <string name="day21">Day 21</string>
+    <string name="title21">Take Active Breaks</string>
+    <string name="description21">Incorporate movement into your daily routine by taking short active breaks throughout the day. Walk, stretch, or do bodyweight exercises to combat sedentary behavior.</string>
+
+    <string name="day22">Day 22</string>
+    <string name="title22">Prioritize Protein</string>
+    <string name="description22">Consume an adequate amount of protein to support muscle repair and growth. Include protein-rich foods like chicken, fish, tofu, beans, and nuts in your meals and snacks.</string>
+
+    <string name="day23">Day 23</string>
+    <string name="title23">Challenge Yourself</string>
+    <string name="description23">Push yourself out of your comfort zone by trying new exercises, increasing weights, or setting personal records. Challenge breeds growth.</string>
+
+    <string name="day24">Day 24</string>
+    <string name="title24">Practice Proper Breathing</string>
+    <string name="description24">Focus on deep, controlled breathing during workouts to optimize oxygen delivery to your muscles and improve endurance. Proper breathing technique can also help reduce stress and tension.</string>
+
+    <string name="day25">Day 25</string>
+    <string name="title25">Stay Positive</string>
+    <string name="description25">Maintain a positive attitude and mindset throughout your fitness journey. Focus on progress rather than perfection, and celebrate your achievements along the way.</string>
+
+    <string name="day26">Day 26</string>
+    <string name="title26">Incorporate Mobility Work</string>
+    <string name="description26">Include mobility exercises and stretches in your routine to improve flexibility, range of motion, and joint health. Flexibility is important for overall fitness and injury prevention.</string>
+
+    <string name="day27">Day 27</string>
+    <string name="title27">Reward Yourself</string>
+    <string name="description27">Treat yourself to non-food rewards for sticking to your fitness routine and reaching milestones. Whether it\'s a massage, new workout gear, or a fun outing, celebrate your hard work.</string>
+
+    <string name="day28">Day 28</string>
+    <string name="title28">Plan Ahead</string>
+    <string name="description28">Prepare for success by planning your workouts, meals, and snacks in advance. Having a plan in place makes it easier to stay on track and resist temptation.</string>
+
+    <string name="day29">Day 29</string>
+    <string name="title29">Embrace Rest and Recovery</string>
+    <string name="description29">Allow your body time to rest and recover between workouts to prevent overtraining and burnout. Incorporate active recovery activities like yoga or walking on rest days.</string>
+
+    <string name="day30">Day 30</string>
+    <string name="title30">Reflect and Set New Goals</string>
+    <string name="description30">Take time to reflect on your achievements and areas for improvement over the past 30 days. Use this insight to set new goals and continue your fitness journey with renewed motivation and determination.</string>
+</resources>
